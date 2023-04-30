@@ -1,0 +1,15 @@
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\bin\Debug\net6.0\Q4.exe
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\bin\Debug\net6.0\Q4.deps.json
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\bin\Debug\net6.0\Q4.runtimeconfig.json
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\bin\Debug\net6.0\Q4.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\bin\Debug\net6.0\Q4.pdb
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.csproj.AssemblyReference.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.AssemblyInfoInputs.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.AssemblyInfo.cs
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.csproj.CoreCompileInputs.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\refint\Q4.dll
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.pdb
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\Q4.genruntimeconfig.cache
+D:\MDT210 Code\GDM พี่โหน่งโค้ด\HW\HW4_GDM222\Q4\obj\Debug\net6.0\ref\Q4.dll
